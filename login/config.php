@@ -1,0 +1,9 @@
+<?php
+    //---------此為連接member管理者登入系統的資料庫設定檔
+    define("DB_TYPE","mysql");
+    define("DB_HOSTNAME","localhost");
+    define("DB_NAME","member");
+    define("DB_USERNAME","root");
+    define("DB_PASSWORD","");
+    define("DB_CHARSET","utf8");
+?>
